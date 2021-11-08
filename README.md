@@ -7,4 +7,4 @@
 - 📬 How to reach me: hector.quijada2121@gmail.com https://www.linkedin.com/in/hector-quijada/
 - 🕴🏼 Pronouns: He/Him
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ai21212019/ai21212019/blob/master/devcard.svg" width="400" alt="Hector's Dev Card"/></a>
+<a href="https://app.daily.dev/hq2121"><img src="https://github.com/ai21212019/ai21212019/blob/master/devcard.svg" width="400" alt="Hector Quijada's Dev Card"/></a>
