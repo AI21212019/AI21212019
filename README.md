@@ -1,11 +1,9 @@
 # Hi! 🙋🏻‍♂
-
-- 🎯 I'm currently building ecommerce websites.
-- 🤝 I welcome collaborations for any full stack projects.
-
+- Welcome to my repo!
+- Two skills I practice daily are reading and coding(see below):
 <a ><img src="https://api.daily.dev/devcards/34ece0200fc14033a5d22762f7670160.png?r=wpm" width="400" alt="Hector Quijada's Dev Card"/></a>
 
-## 📬 Connect with me
+## 📬 Feel free to reach out for questions or suggestions
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hector-quijada)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hector.quijada2121@gmail.com)
