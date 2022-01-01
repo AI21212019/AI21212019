@@ -41,10 +41,9 @@
 [![Git Badge](https://forthebadge.com/images/badges/for-you.svg)](https://github.com/ai21212019)
 [![Git Badge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://github.com/ai21212019)
 </br>
-
-<!-- <br>
-[![Git Badge]()](https://github.com/ai21212019)
-</br> -->
 <br>
 ![Profile Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ai21212019.ai21212019)
 </br>
+<!-- <br>
+[![Git Badge]()](https://github.com/ai21212019)
+</br> -->
