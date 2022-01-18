@@ -32,12 +32,12 @@
 [![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://github.com/ai21212019)
 [![Google_Cloud Badge](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://github.com/ai21212019)
 <br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ai21212019&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ai21212019&show_icons=true&theme=gotham)
 </br>
 <br>
-[![Git Badge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/ai21212019)
-[![Git Badge](https://forthebadge.com/images/badges/for-you.svg)](https://github.com/ai21212019)
-[![Git Badge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://github.com/ai21212019)
+[![built-with-love Badge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/ai21212019)
+[![for-you Badge](https://forthebadge.com/images/badges/for-you.svg)](https://github.com/ai21212019)
+[![powered-by-coffee Badge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://github.com/ai21212019)
 </br>
 <br>
 ![Profile Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ai21212019.ai21212019)
