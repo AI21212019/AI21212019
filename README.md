@@ -11,7 +11,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hector-quijada)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hector.quijada2121@gmail.com)
 
-## 💻 Technologies and tools:
+## Random joke:
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+## 💻 Technologies and 🛠️ tools:
 
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/ai21212019)
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/ai21212019)
@@ -36,6 +40,10 @@
 
 [![Google_Cloud Badge](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://github.com/ai21212019)
 [![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://github.com/ai21212019)
+
+[![Vim](https://img.shields.io/badge/--019733?style=for-the-badge&logo=vim)](https://github/ai21212019)
+[![Visual Studio Code](https://img.shields.io/badge/--007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
+[![Figma](https://img.shields.io/badge/--F24E1E?style=for-the-badge&logo=figma&logoColor=ffffff)](https://www.figma.com/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ai21212019&show_icons=true&theme=gotham)
 
