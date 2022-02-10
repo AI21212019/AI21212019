@@ -4,7 +4,7 @@
 
 - Two skills I practice daily are reading and coding:
 
-  <a ><img src="https://api.daily.dev/devcards/34ece0200fc14033a5d22762f7670160.png?r=3lf" width="400" alt="Hector Quijada's Dev Card"/></a>
+  <a ><img src="https://api.daily.dev/devcards/34ece0200fc14033a5d22762f7670160.png?r=s6c" width="400" alt="Hector Quijada's Dev Card"/></a>
 
 ## 📬 Feel free to reach out for questions or suggestions
 
