@@ -15,7 +15,7 @@ jobs:
 
     steps:
       - name: Check out repository code
-        uses: actions/checkout@v3.5.2
+        uses: actions/checkout@v3.5.3
         
       - name: devcard
         uses: dailydotdev/action-devcard@2.2.0
