@@ -15,6 +15,9 @@ jobs:
     permissions:
       contents: write
     steps:   
+     # This step checks out a copy of your repository.
+      - name: My first step - check out repository
+        uses: actions/checkout@v4
       - name: devcard
         uses: dailydotdev/action-devcard@2.3.1
         with:
