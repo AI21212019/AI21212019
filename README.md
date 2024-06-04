@@ -44,8 +44,6 @@
 [![Visual Studio Code](https://img.shields.io/badge/--007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![Figma](https://img.shields.io/badge/--F24E1E?style=for-the-badge&logo=figma&logoColor=ffffff)](https://www.figma.com/)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ai21212019&show_icons=true&theme=gotham)
-
 [![built-with-love Badge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/ai21212019)
 [![for-you Badge](https://forthebadge.com/images/badges/for-you.svg)](https://github.com/ai21212019)
 [![powered-by-coffee Badge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://github.com/ai21212019)
