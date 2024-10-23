@@ -16,6 +16,6 @@ jobs:
       - name: My first step - check out repository
         uses: actions/checkout@v4
       - name: '@dailydotdev/devcard'
-        uses: dailydotdev/action-devcard@3.1.0
+        uses: dailydotdev/action-devcard@3.2.0
         with:
           user_id: ${{ secrets.DEVCARD_ID }}
